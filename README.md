@@ -1,3 +1,11 @@
+# NETFLIX CLONE
+
+This is a simple console-based game where you roll a dice and try to get the highest score possible.
+
+## visite website:  
+
+https://netflix-7cf01.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
