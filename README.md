@@ -1,6 +1,7 @@
 # NETFLIX CLONE
 
-This is a simple console-based game where you roll a dice and try to get the highest score possible.
+This is a ReactJS website.
+
 
 ## visite website:  
 
